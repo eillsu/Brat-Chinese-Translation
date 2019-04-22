@@ -2,6 +2,10 @@
 
  原网页：<http://brat.nlplab.org/installation.html>
 
+翻译：eillsu
+
+GitHub：<https://github.com/eillsu/Brat-Chinese-Translation>
+
 本页面描述如何安装brat服务器及其第三方依赖。
 
 （如果您已经有一个正在运行的服务器，您可能希望在下一步阅读有关标注配置的内容。）

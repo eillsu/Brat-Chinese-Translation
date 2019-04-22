@@ -2,6 +2,10 @@
 
 原网页：<http://brat.nlplab.org/features.html>
 
+翻译：eillsu
+
+GitHub：<https://github.com/eillsu/Brat-Chinese-Translation>
+
 此页面提供了brat功能的概述。 有关详细说明，请参阅[brat手册]（http://brat.nlplab.org/index.html）。
 
 ## 全面可视化

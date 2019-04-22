@@ -4,6 +4,10 @@
 
 原网址：<http://brat.nlplab.org/index.html>
 
+翻译：eillsu
+
+GitHub：<https://github.com/eillsu/Brat-Chinese-Translation>
+
 **直观的注释**
 
 ![](http://brat.nlplab.org/img/frontpage/005-entity-mention-annotation-example.png)

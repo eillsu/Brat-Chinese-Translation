@@ -2,7 +2,11 @@
 
 原网页：<http://brat.nlplab.org/manual.html>
 
-本文档介绍了 brat 快速注释工具的基本功能。
+翻译：eillsu
+
+GitHub：<https://github.com/eillsu/Brat-Chinese-Translation>
+
+本文档介绍了 brat 快速标注工具的基本功能。
 
 已熟悉 brat 但是该工具有问题？请参阅故障排除（http://brat.nlplab.org/troubleshooting.html）。
 

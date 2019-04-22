@@ -2,6 +2,10 @@
 
 原网页：<http://brat.nlplab.org/downloads.html>
 
+翻译：eillsu
+
+GitHub：<https://github.com/eillsu/Brat-Chinese-Translation>
+
 ## 当前发布版本
 
 最新的版本是 v1.3 (Crunchy Frog). 推荐使用此版本。

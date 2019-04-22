@@ -1,5 +1,11 @@
 # 9 brat standoff 格式
 
+原网页：<http://brat.nlplab.org/standoff.html>
+
+翻译：eillsu
+
+GitHub：<https://github.com/eillsu/Brat-Chinese-Translation>
+
 在 brat 中创建的标注以 standoff 格式存储在磁盘上：标注与带标注的文档文本分开存储，文档永远不会被工具修改。
 
 对于系统中的每个文本文档，都有一个相应的标注文件。这两者通过文件命名约定关联，它们的基本名称（不带后缀的文件名）是相同的：例如，文件DOC-1000.ann包含文件DOC-1000.txt的标注。

@@ -2,6 +2,10 @@
 
 原网页：<http://brat.nlplab.org/introduction.html>
 
+翻译：eillsu
+
+GitHub：<https://github.com/eillsu/Brat-Chinese-Translation>
+
 brat 是一个基于Web的文本标注工具；也就是说，用于向现有文本文档添加标注。
 
 brat 是专门为*结构化*标注而设计的，其中标注不是自由格式的文本，而是具有固定的形式，可以由计算机自动处理和解释。

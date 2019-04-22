@@ -2,6 +2,10 @@
 
 原网址：<http://brat.nlplab.org/examples.html>
 
+翻译：eillsu
+
+GitHub：<https://github.com/eillsu/Brat-Chinese-Translation>
+
 brat 可以通过多种方式应用，并用于完成和正在进行的标注工作和其他任务：
 
 - brat 中的标注示例

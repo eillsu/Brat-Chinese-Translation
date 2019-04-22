@@ -2,6 +2,10 @@
 
 原网页：<http://brat.nlplab.org/configuration.html>
 
+翻译：eillsu
+
+GitHub：<https://github.com/eillsu/Brat-Chinese-Translation>
+
 当前，brat 标注系统的配置是由基于文本的配置文件进行控制，这些配置文件可以在任意的文本编辑器中创建和编辑。这里介绍如何进行配置。
 
 ( 更喜欢通过具体例子来学习？在brat的 configurations 目录中查看各种项目的配置。)
